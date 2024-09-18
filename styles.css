@@ -1,5 +1,5 @@
-.option: nth-child(even) {
-	
-  background-color: #4C8BF5;
-  color: red;
+.input:nth-child(even){
+	color: rgb(255, 0, 0);
 }
+
+
