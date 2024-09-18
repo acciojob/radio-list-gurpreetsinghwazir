@@ -1,1 +1,5 @@
-/*  your css code here. If applicable */
+.option: nth-child(even) {
+	
+  background-color: #4C8BF5;
+  color: red;
+}
