@@ -5,3 +5,8 @@
     color: red; /* This will change the color of the text */
 }
 
+
+h6:nth-child(even){
+	color: red; /* This will change the color of the text */
+}
+
