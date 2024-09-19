@@ -1,0 +1,12 @@
+.input {
+    margin: 10px;
+}
+
+/* Styling even-positioned radio button text */
+.radio-container:nth-of-type(even) {
+    color: red; /* This will change the color of the text */
+}
+
+.radio-container:nth-of-type(even) input {
+    accent-color: red; /* Change the radio button appearance */
+}
